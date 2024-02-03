@@ -2,7 +2,7 @@ import csv
 
 with open('scientist_sorted.txt', 'r', encoding="utf8") as csvfile:
     reader = csv.DictReader(csvfile, delimiter='#')
-    reader = [row for row in reader][1:]
+    reader = [row for row in reader]
 
     command = input()
     while command != 'эксперимент':

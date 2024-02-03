@@ -27,7 +27,7 @@ def fast_sort(array, value):
 with open('scientist.txt', 'r', encoding="utf8") as csvfile:
     reader = csv.DictReader(csvfile, delimiter='#')
 
-    array = [row for row in reader][1:]
+    array = [row for row in reader]
     array = fast_sort(array, 'date')
 
 # записываем в файл результат сортировки
