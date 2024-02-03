@@ -30,6 +30,10 @@ with open('scientist.txt', 'r', encoding="utf8") as csvfile:
     array = [row for row in reader]
     array = fast_sort(array, 'date')
 
+    for row in range(0, 5):
+        data = array[row]
+        print(f"{data['ScientistName']} - {data['preparation']}")
+
 # записываем в файл результат сортировки
 with open('scientist_sorted.txt', 'w', newline='', encoding="utf8") as file:
     writer = csv.DictWriter(file, delimiter='#', fieldnames=reader.fieldnames)
