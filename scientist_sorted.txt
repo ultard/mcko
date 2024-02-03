@@ -267,6 +267,7 @@ ScientistName#preparation#date#components
 Перемитина Алиса Борисовна#Амлодипин#1475-10-20#Chemical_30 Chemical_16 Chemical_65
 Киржаков Геннадий Максимович#Золедроновая кислота#1478-03-20#Chemical_51 Chemical_8 Chemical_26
 Куконова Алена Михайловна#Небиволол#1481-10-26#Chemical_74 Chemical_21 Chemical_38
+Ланчеков Алексей Тимофеевич#Зылорик#1489-05-21#Chemical_63 Chemical_71 Chemical_40
 Докшукина Оксана Петровна#Пилипен#1491-03-01#Chemical_93 Chemical_32 Chemical_8
 Бачалдина Яна Максимовна#Урсофальк#1492-06-18#Chemical_16 Chemical_96 Chemical_33
 Мышлин Альберт Иванович#Амоксиклав#1497-03-02#Chemical_100 Chemical_2 Chemical_83
