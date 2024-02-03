@@ -1,6 +1,4 @@
 import csv
-import datetime
-
 
 def fast_sort(array, value):
     """
